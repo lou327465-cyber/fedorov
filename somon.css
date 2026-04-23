@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.top {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: start;
+}
+.ppp {
+    width: 200px;
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    padding-bottom: 10px;
+}
+.bmw img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    wrap: wrap;
+
+} 
+.surat .container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px 0;
+}
+.foto {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    background-color: white;
+
+}
+.card img {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    margin-right: 12px;
+    background-color: white;
+
+}
+
+  
+
+
+
+
+       
+    
